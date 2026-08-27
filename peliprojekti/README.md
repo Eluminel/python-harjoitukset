@@ -1,2 +1,2 @@
-# Ensimainen peli
+# Ensimmäinen peli
 ## Elena Stepanova
